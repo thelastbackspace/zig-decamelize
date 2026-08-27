@@ -1,5 +1,7 @@
 # decamelize
 
+[![CI](https://github.com/thelastbackspace/zig-decamelize/actions/workflows/ci.yml/badge.svg)](https://github.com/thelastbackspace/zig-decamelize/actions/workflows/ci.yml)
+
 Convert camelCase to a separated form: `unicornRainbow` →
 `unicorn_rainbow`.
 
